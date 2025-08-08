@@ -15,6 +15,6 @@ scikit-learn, TensorFlow, PyTorch, spaCY, NLTK, OpenCV, and transformers.
 ## Featured Projects
 **NewsBot - NLP Final Project**
 An AI tool that classifies news articles, extracts entities, and analyzes sentiment.
-[View Project] 
+[View Project] https://github.com/211MM/Miguel-Mora-AI-Portfolio/blob/main/ITAI2373-NewsBot-Final.ipynb
 ## Professional Contact
 **Email**: mmora.ai999@gmail.com
